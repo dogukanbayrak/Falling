@@ -8,7 +8,7 @@ Golden floor takes 50 points from you.<br>
 Black floor is a safe floor.<br>
 Sometimes rotation can be changed. Be careful :)
 
-If you want to apk file, here it is: https://drive.google.com/file/d/1YKmVXAVnIaJTOT32f2sZJtK_koKW0lqX/view?usp=sharing
+If you want to apk file, here it is: https://drive.google.com/file/d/1ngPp4j4Qoi62W23TuZWygbU7J_oEXWVc/view?usp=sharing
 
 https://user-images.githubusercontent.com/25830770/177037455-2a92408d-dc35-4e0e-942c-3fe042f6364a.mp4
 
